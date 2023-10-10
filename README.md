@@ -1,2 +1,2 @@
 # barba
-site de aprendizado
+Pagina comercial para aprendizagem.
